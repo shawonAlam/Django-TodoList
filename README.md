@@ -4,7 +4,9 @@ Fully functional TODO list designed by django
 To run this project: 
 1. Download the whole TODO folder
   Make sure your pc has python in it
+  
 2.Go to cmd and install django by typing [pip uinstall django]. 
+
 4.go inside the TODO folder. ex: .....TODO/TODO/
 5.Here type python manage.py runserver
   It will create a virtual environment in the directory and it will show something like:

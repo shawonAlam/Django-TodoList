@@ -1,5 +1,6 @@
 # TODO-list_Django-
 Fully functional TODO list designed by django
+![](todo.png)
 
 To run this project: 
 1. Download the whole TODO folder and make sure your pc has python in it.
